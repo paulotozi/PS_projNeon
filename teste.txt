@@ -1,0 +1,3 @@
+This is a test .txt file
+Este é um teste de aquivo .txt
+dette er en test .txt-fil
